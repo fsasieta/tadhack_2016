@@ -5,9 +5,9 @@ var app = express();
 app.get('/events_available', function(req, res) {
 
 	
-	res.json({event1: "comm working in browser"})
+	res.json({event1: "Comm working in browser"})
 	
-	get_list_of_events()
+	//get_list_of_events()
 
 })
 
