@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>I'm here app</title>
+  </head>
+  <body bgcolor=white>
+
+    <table border="0" cellpadding="10">
+      <tr>
+        <td>
+          <h1>placeholder text</h1>
+        </td>
+      </tr>
+    </table>
+
+    <p>This is the home page for the 'm here team. </p>
+
+	<!--
+    <ul>
+      <li>To a <a href="hello.jsp">JSP page</a>.
+      <li>To a <a href="hello">servlet</a>.
+    </ul>
+	-->
+
+  </body>
+</html>
+
